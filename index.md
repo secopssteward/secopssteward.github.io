@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ![SOS Logo](/SOS_Logo_Blue.svg)
 
 # What Is It?
