@@ -15,4 +15,4 @@ The source code for SOS and its library of public plugins is available [here](ht
 Documentation on how to install and use SOS can be found [here](https://docs.secopssteward.com). If you're new to SecOps Steward, you can follow the deployment guide, which automates nearly 100% of the steps required to deploy the system and get started securing your cloud!
 
 # Want To Give It a Try?
-A demo site which is not attached to any resources but still showcases the UI and the feature set can be found [here](https://demo.secopssteward.com).
+A demo site which is not attached to any resources but still showcases the UI and the feature set can be found [here](http://demo.secopssteward.com).
