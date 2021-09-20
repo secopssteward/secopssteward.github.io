@@ -2,3 +2,6 @@ theme: jekyll-theme-modernist
 
 title: SecOps Steward
 description: Empowering administrators to create a more secure cloud!
+site:
+  github:
+    repository_url: https://github.com/SecOpsSteward/SecOpsSteward
