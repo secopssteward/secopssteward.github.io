@@ -16,3 +16,15 @@ Documentation on how to install and use SOS can be found [here](https://docs.sec
 
 # Want To Give It a Try?
 A demo site which is not attached to any resources but still showcases the UI and the feature set can be found [here](http://demo.secopssteward.com).
+
+## Supported Azure Services Out-of-Box Today:
+- Functions
+- CosmosDB
+- Event Hub
+- Key Vault
+- Maps
+- Search
+- Service Bus
+- SQL
+- Service Bus
+- Redis
