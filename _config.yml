@@ -4,3 +4,9 @@ title: SecOps Steward
 description: Empowering administrators to create a more secure cloud!
 github:
   repository_url: https://github.com/SecOpsSteward/SecOpsSteward
+
+google:
+  tag_manager:
+    container_id: GTM-TGX5H9M
+plugins:
+- jekyll-google-tag-manager
