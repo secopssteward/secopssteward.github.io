@@ -1,13 +1,8 @@
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme
-- jekyll-google-tag-manager
 
 title: SecOps Steward
 description: Empowering administrators to create a more secure cloud!
 github:
   repository_url: https://github.com/SecOpsSteward/SecOpsSteward
-
-google:
-  tag_manager:
-    container_id: GTM-TGX5H9M
